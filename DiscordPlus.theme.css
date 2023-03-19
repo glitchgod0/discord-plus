@@ -21,9 +21,9 @@
   --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 303;
-  --dplus-accent-color-saturation: 100%;
-  --dplus-accent-color-lightness: 94%;
+  --dplus-accent-color-hue: 320;
+  --dplus-accent-color-saturation: 60%;
+  --dplus-accent-color-lightness: 31%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 210;
@@ -68,8 +68,8 @@
 Set avatar/server radius to 50% to make them circular.
    UI radius must be in pixels, otherwise things break. */
   --dplus-radius-ui: 10px;
-  --dplus-radius-avatar: 50%;
-  --dplus-radius-server: 50%;
+  --dplus-radius-avatar: 20%;
+  --dplus-radius-server: 20%;
 
 /* This decides how much breathing room there should be between things like buttons and content. */
   --dplus-spacing-ui: 10px;
